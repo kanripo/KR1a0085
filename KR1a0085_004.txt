@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 易學變通
-#+DATE: 2015-09-23 09:34:59
-#+PROPERTY: JUAN 4
+#+DATE: 2015-08-24 21:57:03.083398
+#+PROPERTY: ID KR1a0085
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷四
 <pb:KR1a0085_WYG_004-1a>¶
 欽定四庫全書¶
 　易學變通卷四　　　　　　元　曾貫　撰¶
@@ -285,4 +287,3 @@
 　能益下反有求益元厭之心則是爭闘其民而民亦¶
 　起而爭奪之矣况為上而欲專利者由其立心之不¶
 　恒也恒則安常守正不恒則反道敗德其凶必矣¶
-

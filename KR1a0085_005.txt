@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 易學變通
-#+DATE: 2015-09-23 09:34:59
-#+PROPERTY: JUAN 5
+#+DATE: 2015-08-24 21:57:03.103133
+#+PROPERTY: ID KR1a0085
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷五
 <pb:KR1a0085_WYG_005-1a>¶
 欽定四庫全書¶
 　易學變通卷五　　　　　　元　曽貫　撰¶
@@ -314,4 +316,3 @@
 　惟背則靜亦止動亦止乃能盡乎艮之義也故六爻¶
 　之中惟敦艮為吉而艮其身僅可无咎即此可見其¶
 　不同也¶
-
